@@ -1,0 +1,91 @@
+﻿Escenario,Modelo,Real,Predicho,Cantidad
+sem1,Baseline (clase mayoritaria),Dropout,Dropout,0
+sem1,Baseline (clase mayoritaria),Dropout,Enrolled,0
+sem1,Baseline (clase mayoritaria),Dropout,Graduate,284
+sem1,Baseline (clase mayoritaria),Enrolled,Dropout,0
+sem1,Baseline (clase mayoritaria),Enrolled,Enrolled,0
+sem1,Baseline (clase mayoritaria),Enrolled,Graduate,159
+sem1,Baseline (clase mayoritaria),Graduate,Dropout,0
+sem1,Baseline (clase mayoritaria),Graduate,Enrolled,0
+sem1,Baseline (clase mayoritaria),Graduate,Graduate,442
+sem1,Regresion Logistica,Dropout,Dropout,190
+sem1,Regresion Logistica,Dropout,Enrolled,65
+sem1,Regresion Logistica,Dropout,Graduate,29
+sem1,Regresion Logistica,Enrolled,Dropout,25
+sem1,Regresion Logistica,Enrolled,Enrolled,95
+sem1,Regresion Logistica,Enrolled,Graduate,39
+sem1,Regresion Logistica,Graduate,Dropout,21
+sem1,Regresion Logistica,Graduate,Enrolled,82
+sem1,Regresion Logistica,Graduate,Graduate,339
+sem1,Arbol de Decision,Dropout,Dropout,188
+sem1,Arbol de Decision,Dropout,Enrolled,72
+sem1,Arbol de Decision,Dropout,Graduate,24
+sem1,Arbol de Decision,Enrolled,Dropout,38
+sem1,Arbol de Decision,Enrolled,Enrolled,91
+sem1,Arbol de Decision,Enrolled,Graduate,30
+sem1,Arbol de Decision,Graduate,Dropout,19
+sem1,Arbol de Decision,Graduate,Enrolled,130
+sem1,Arbol de Decision,Graduate,Graduate,293
+sem1,Random Forest,Dropout,Dropout,195
+sem1,Random Forest,Dropout,Enrolled,55
+sem1,Random Forest,Dropout,Graduate,34
+sem1,Random Forest,Enrolled,Dropout,38
+sem1,Random Forest,Enrolled,Enrolled,79
+sem1,Random Forest,Enrolled,Graduate,42
+sem1,Random Forest,Graduate,Dropout,19
+sem1,Random Forest,Graduate,Enrolled,53
+sem1,Random Forest,Graduate,Graduate,370
+sem1,SVM,Dropout,Dropout,184
+sem1,SVM,Dropout,Enrolled,74
+sem1,SVM,Dropout,Graduate,26
+sem1,SVM,Enrolled,Dropout,25
+sem1,SVM,Enrolled,Enrolled,99
+sem1,SVM,Enrolled,Graduate,35
+sem1,SVM,Graduate,Dropout,18
+sem1,SVM,Graduate,Enrolled,78
+sem1,SVM,Graduate,Graduate,346
+sem2,Baseline (clase mayoritaria),Dropout,Dropout,0
+sem2,Baseline (clase mayoritaria),Dropout,Enrolled,0
+sem2,Baseline (clase mayoritaria),Dropout,Graduate,284
+sem2,Baseline (clase mayoritaria),Enrolled,Dropout,0
+sem2,Baseline (clase mayoritaria),Enrolled,Enrolled,0
+sem2,Baseline (clase mayoritaria),Enrolled,Graduate,159
+sem2,Baseline (clase mayoritaria),Graduate,Dropout,0
+sem2,Baseline (clase mayoritaria),Graduate,Enrolled,0
+sem2,Baseline (clase mayoritaria),Graduate,Graduate,442
+sem2,Regresion Logistica,Dropout,Dropout,193
+sem2,Regresion Logistica,Dropout,Enrolled,66
+sem2,Regresion Logistica,Dropout,Graduate,25
+sem2,Regresion Logistica,Enrolled,Dropout,25
+sem2,Regresion Logistica,Enrolled,Enrolled,103
+sem2,Regresion Logistica,Enrolled,Graduate,31
+sem2,Regresion Logistica,Graduate,Dropout,15
+sem2,Regresion Logistica,Graduate,Enrolled,78
+sem2,Regresion Logistica,Graduate,Graduate,349
+sem2,Arbol de Decision,Dropout,Dropout,200
+sem2,Arbol de Decision,Dropout,Enrolled,58
+sem2,Arbol de Decision,Dropout,Graduate,26
+sem2,Arbol de Decision,Enrolled,Dropout,37
+sem2,Arbol de Decision,Enrolled,Enrolled,89
+sem2,Arbol de Decision,Enrolled,Graduate,33
+sem2,Arbol de Decision,Graduate,Dropout,15
+sem2,Arbol de Decision,Graduate,Enrolled,91
+sem2,Arbol de Decision,Graduate,Graduate,336
+sem2,Random Forest,Dropout,Dropout,208
+sem2,Random Forest,Dropout,Enrolled,45
+sem2,Random Forest,Dropout,Graduate,31
+sem2,Random Forest,Enrolled,Dropout,28
+sem2,Random Forest,Enrolled,Enrolled,95
+sem2,Random Forest,Enrolled,Graduate,36
+sem2,Random Forest,Graduate,Dropout,10
+sem2,Random Forest,Graduate,Enrolled,51
+sem2,Random Forest,Graduate,Graduate,381
+sem2,SVM,Dropout,Dropout,194
+sem2,SVM,Dropout,Enrolled,60
+sem2,SVM,Dropout,Graduate,30
+sem2,SVM,Enrolled,Dropout,25
+sem2,SVM,Enrolled,Enrolled,101
+sem2,SVM,Enrolled,Graduate,33
+sem2,SVM,Graduate,Dropout,16
+sem2,SVM,Graduate,Enrolled,72
+sem2,SVM,Graduate,Graduate,354

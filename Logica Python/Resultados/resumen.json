@@ -1,0 +1,36 @@
+{
+  "escenario_principal": "sem1",
+  "escenarios": {
+    "sem1": {
+      "etiqueta": "Al terminar el 1.er semestre (principal)",
+      "mejor_modelo": "Random Forest",
+      "n_variables": 32,
+      "variables_excluidas": [
+        "Curricular units 2nd sem (credited)",
+        "Curricular units 2nd sem (enrolled)",
+        "Curricular units 2nd sem (evaluations)",
+        "Curricular units 2nd sem (approved)",
+        "Curricular units 2nd sem (grade)",
+        "Curricular units 2nd sem (without evaluations)",
+        "Total_Aprobadas_Sem2",
+        "Total_Aprobadas"
+      ]
+    },
+    "sem2": {
+      "etiqueta": "Al terminar el 2.º semestre (referencia)",
+      "mejor_modelo": "Random Forest",
+      "n_variables": 40,
+      "variables_excluidas": []
+    }
+  },
+  "criterio_seleccion": "f1_macro medio en StratifiedKFold(5) sobre entrenamiento",
+  "semilla": 42,
+  "tamano_prueba": 0.2,
+  "n_registros": 4424,
+  "versiones": {
+    "python": "3.13.17",
+    "pandas": "3.1.1",
+    "numpy": "2.5.5",
+    "scikit-learn": "1.9.1"
+  }
+}

@@ -1,0 +1,32 @@
+
+# Copia de trabajo: generados y configuracion privada
+.git/
+node_modules/
+[Bb]in/
+[Oo]bj/
+.vs/
+.venv/
+venv/
+build/
+.angular/
+.local/
+__pycache__/
+*.py[cod]
+dist/
+.env
+.env.*
+!.env.example
+appsettings.*.local.json
+*.log
+*.db
+*.sqlite
+*.db-journal
+*.sqlite-journal
+*.user
+*.suo
+
+# Entorno y salidas temporales de Python
+.pytest_cache/
+.ipynb_checkpoints/
+Logica Python/Resultados/datos/
+*.tmp
